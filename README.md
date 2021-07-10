@@ -1,9 +1,7 @@
 This repository implements the LOFT approach described in the IROS 2021 paper:
 
-Learning Symbolic Operators for Task and Motion Planning
-
-Tom Silver*, Rohan Chitnis*, Joshua Tenenbaum, Leslie Pack Kaelbling, Tomas Lozano-Perez
-
+Learning Symbolic Operators for Task and Motion Planning\
+Tom Silver*, Rohan Chitnis*, Joshua Tenenbaum, Leslie Pack Kaelbling, Tomas Lozano-Perez\
 Link to paper: https://arxiv.org/abs/2103.00589
 
 Instructions for running (tested on OS X and Ubuntu 18.04):
