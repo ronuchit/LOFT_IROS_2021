@@ -1,4 +1,4 @@
 numpy
 pddlgym==0.0.4
-git+git://github.com/aibasel/pyperplan@master#egg=pyperplan
+git+https://github.com/aibasel/pyperplan@main#egg=pyperplan
 pybullet
